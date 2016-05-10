@@ -1,0 +1,28 @@
+name: TextilCo
+favicon: null
+layout_spectrum: 0.7559506939724088
+typography_spectrum: 0.7620853346306831
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.599822074174881
+  lightness: 0.7432045957539231
+  saturation: 0.9632951829116791
+  rhythmicContrast: 0.27544302423484623
+purpose: []
